@@ -1,6 +1,6 @@
-id=no-status-bar
-name=Hide status bar
-version=v03
-versionCode=3
-author=AndroPlus
-description=Hide status bar by changing the height to 1px
+id=small-status-bar
+name=small status bar
+version=v1
+versionCode=1
+author=je24yhfy68
+description=small status bar by changing the height to 30px
